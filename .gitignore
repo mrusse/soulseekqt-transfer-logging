@@ -1,0 +1,4 @@
+test-appdata/
+*.log
+*.log.1
+*.so
