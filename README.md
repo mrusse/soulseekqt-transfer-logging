@@ -1,6 +1,6 @@
 # SoulseekQT Transfer Logging
 
-SoulseekQt doesn't save its diagnostics logs anywhere, so you have to copy them out of the UI by hand. This is a tiny `LD_PRELOAD` hook that writes them to a file instead. Built for the [realies/soulseek](https://hub.docker.com/r/realies/soulseek) Docker image.
+SoulseekQt doesn't save its diagnostics logs anywhere, so you have to copy them out of the UI by hand. This is a tiny `LD_PRELOAD` hook that writes them to a file instead. Built for the [realies/soulseek](https://github.com/realies/soulseek-docker) Docker image.
 
 ## Building
 
